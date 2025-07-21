@@ -359,7 +359,7 @@
       "negative": 15.0
     },
     "trending_score": 0.9565680620927726,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -530,7 +530,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8754388997958049,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -872,7 +872,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8616762829404854,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -1385,7 +1385,7 @@
       "negative": 15.0
     },
     "trending_score": 0.6496893760999889,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -1727,7 +1727,7 @@
       "negative": 15.0
     },
     "trending_score": 0.9834445520241806,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -2069,7 +2069,7 @@
       "negative": 15.0
     },
     "trending_score": 0.6123203329986442,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -2240,7 +2240,7 @@
       "negative": 15.0
     },
     "trending_score": 0.7229568060383502,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -2411,7 +2411,7 @@
       "negative": 15.0
     },
     "trending_score": 0.9283660161519671,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -2582,7 +2582,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8806148539470136,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -2753,7 +2753,7 @@
       "negative": 15.0
     },
     "trending_score": 0.6983272207583137,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -3266,7 +3266,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8189348275529638,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -3437,7 +3437,7 @@
       "negative": 15.0
     },
     "trending_score": 0.995015630233399,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -3608,7 +3608,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8963142831162059,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -3779,7 +3779,7 @@
       "negative": 15.0
     },
     "trending_score": 0.666654196832546,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -4292,7 +4292,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8249183262896362,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -4463,7 +4463,7 @@
       "negative": 15.0
     },
     "trending_score": 0.7488336261839755,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -4634,7 +4634,7 @@
       "negative": 15.0
     },
     "trending_score": 0.803532499082133,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -4805,7 +4805,7 @@
       "negative": 15.0
     },
     "trending_score": 0.9836348736500162,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -4976,7 +4976,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8352431094250856,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -5147,7 +5147,7 @@
       "negative": 15.0
     },
     "trending_score": 0.6642797767161153,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -5489,7 +5489,7 @@
       "negative": 15.0
     },
     "trending_score": 0.6993650921284766,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -5831,7 +5831,7 @@
       "negative": 15.0
     },
     "trending_score": 0.5248812462164786,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -6002,7 +6002,7 @@
       "negative": 15.0
     },
     "trending_score": 0.7662911739337119,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -6686,7 +6686,7 @@
       "negative": 15.0
     },
     "trending_score": 0.7538448563623231,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -7028,7 +7028,7 @@
       "negative": 15.0
     },
     "trending_score": 0.7243007369911233,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -7199,7 +7199,7 @@
       "negative": 15.0
     },
     "trending_score": 0.533839661454423,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -7370,7 +7370,7 @@
       "negative": 15.0
     },
     "trending_score": 0.5183103857684541,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -8225,7 +8225,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8670998774022733,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -8396,7 +8396,7 @@
       "negative": 15.0
     },
     "trending_score": 0.6764475444281777,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -8738,7 +8738,7 @@
       "negative": 15.0
     },
     "trending_score": 0.6327652184928607,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -9080,7 +9080,7 @@
       "negative": 15.0
     },
     "trending_score": 0.5686364774004615,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -9422,7 +9422,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8768783258907284,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -10106,7 +10106,7 @@
       "negative": 15.0
     },
     "trending_score": 0.7783590590526173,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -10448,7 +10448,7 @@
       "negative": 15.0
     },
     "trending_score": 0.9571652494487446,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -11303,7 +11303,7 @@
       "negative": 15.0
     },
     "trending_score": 0.7069050348840638,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -11645,7 +11645,7 @@
       "negative": 15.0
     },
     "trending_score": 0.6210105838353994,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -12158,7 +12158,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8086813396682124,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -12329,7 +12329,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8265348803064594,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -12500,7 +12500,7 @@
       "negative": 15.0
     },
     "trending_score": 0.6742884884111568,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -12671,7 +12671,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8807367937399284,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -13013,7 +13013,7 @@
       "negative": 15.0
     },
     "trending_score": 0.994077454732136,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -13184,7 +13184,7 @@
       "negative": 15.0
     },
     "trending_score": 0.6238931874817895,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -13355,7 +13355,7 @@
       "negative": 15.0
     },
     "trending_score": 0.961289644466597,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -14210,7 +14210,7 @@
       "negative": 15.0
     },
     "trending_score": 0.5741618986845497,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -14552,7 +14552,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8907175529177467,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -14894,7 +14894,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8959212624999359,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -15065,7 +15065,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8465880381606324,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -15236,7 +15236,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8522523232958957,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -16433,7 +16433,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8431590554663356,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -16775,7 +16775,7 @@
       "negative": 15.0
     },
     "trending_score": 0.975034307740916,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -17288,7 +17288,7 @@
       "negative": 15.0
     },
     "trending_score": 0.5474992351652901,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -17801,7 +17801,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8583290340645879,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -18314,7 +18314,7 @@
       "negative": 15.0
     },
     "trending_score": 0.9324207426023012,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -18485,7 +18485,7 @@
       "negative": 15.0
     },
     "trending_score": 0.7331656691047895,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -19340,7 +19340,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8560995636128492,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -19511,7 +19511,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8666134136064505,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -20537,7 +20537,7 @@
       "negative": 15.0
     },
     "trending_score": 0.717688717276382,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -20708,7 +20708,7 @@
       "negative": 15.0
     },
     "trending_score": 0.7027254834252602,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -20879,7 +20879,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8787366425233363,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -21050,7 +21050,7 @@
       "negative": 15.0
     },
     "trending_score": 0.9174702400330284,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -21221,7 +21221,7 @@
       "negative": 15.0
     },
     "trending_score": 0.730035295023215,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -21392,7 +21392,7 @@
       "negative": 15.0
     },
     "trending_score": 0.598031607068493,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -21734,7 +21734,7 @@
       "negative": 15.0
     },
     "trending_score": 0.5625199553660021,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -21905,7 +21905,7 @@
       "negative": 15.0
     },
     "trending_score": 0.722422466185372,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -22589,7 +22589,7 @@
       "negative": 15.0
     },
     "trending_score": 0.5298875658047113,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -22931,7 +22931,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8208758340638114,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -23102,7 +23102,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8512752080904035,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -23273,7 +23273,7 @@
       "negative": 15.0
     },
     "trending_score": 0.6501669808640869,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -23444,7 +23444,7 @@
       "negative": 15.0
     },
     "trending_score": 0.6907730552497409,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -23786,7 +23786,7 @@
       "negative": 15.0
     },
     "trending_score": 0.7202317120316533,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -23957,7 +23957,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8945942472537111,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -24812,7 +24812,7 @@
       "negative": 15.0
     },
     "trending_score": 0.6620373900671207,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -25325,7 +25325,7 @@
       "negative": 15.0
     },
     "trending_score": 0.9975121677787756,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -25667,7 +25667,7 @@
       "negative": 15.0
     },
     "trending_score": 0.6947831369466293,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -25838,7 +25838,7 @@
       "negative": 15.0
     },
     "trending_score": 0.7296842053070225,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -26693,7 +26693,7 @@
       "negative": 15.0
     },
     "trending_score": 0.7175950242024615,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -27890,7 +27890,7 @@
       "negative": 15.0
     },
     "trending_score": 0.9675210937544755,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -28232,7 +28232,7 @@
       "negative": 15.0
     },
     "trending_score": 0.9022267654636544,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -28403,7 +28403,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8533706242284022,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -28574,7 +28574,7 @@
       "negative": 15.0
     },
     "trending_score": 0.5563395611815638,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -28745,7 +28745,7 @@
       "negative": 15.0
     },
     "trending_score": 0.9349431514738344,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -29087,7 +29087,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8465799195013429,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -29771,7 +29771,7 @@
       "negative": 15.0
     },
     "trending_score": 0.6864574680046331,
-    "is_trending": true,
+    "is_trending": false,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -30113,7 +30113,7 @@
       "negative": 15.0
     },
     "trending_score": 0.8643027577416182,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
@@ -30284,7 +30284,7 @@
       "negative": 15.0
     },
     "trending_score": 0.9780132980665386,
-    "is_trending": false,
+    "is_trending": true,
     "recommendation": "Standard Stock Levels",
     "recommendation_details": "Average demand patterns observed.",
     "marketing_recommendation": "Standard promotion strategy recommended.",
