@@ -1,0 +1,5 @@
+{
+  "Metro": ["Delhi NCR", "Mumbai", "Bangalore", "Chennai", "Kolkata", "Hyderabad"],
+  "Tier-1": ["Pune", "Ahmedabad", "Surat", "Jaipur", "Lucknow", "Kanpur", "Nagpur"],
+  "Tier-2": ["Indore", "Bhopal", "Patna", "Chandigarh", "Coimbatore", "Kochi", "Vadodara"]
+}

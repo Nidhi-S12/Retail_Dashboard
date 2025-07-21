@@ -1,0 +1,74 @@
+{
+  "product_categories": {
+    "Fashion": [
+      {"name": "Anarkali Suits", "tags": ["traditional", "ethnic", "festive", "wedding", "partywear", "designer"]},
+      {"name": "Kurta Sets", "tags": ["casual", "daily", "office", "cotton", "comfortable", "ethnic"]},
+      {"name": "Designer Sarees", "tags": ["wedding", "silk", "handloom", "traditional", "festive", "luxury"]},
+      {"name": "Lehenga Choli", "tags": ["wedding", "festive", "designer", "bridal", "partywear", "traditional"]},
+      {"name": "Indo-Western Dresses", "tags": ["fusion", "modern", "party", "casual", "trendy", "stylish"]},
+      {"name": "Palazzo Pants", "tags": ["comfort", "daily", "casual", "office", "ethnic", "trendy"]},
+      {"name": "Nehru Jackets", "tags": ["men", "ethnic", "festive", "wedding", "formal", "traditional"]},
+      {"name": "Sherwani", "tags": ["men", "wedding", "festive", "traditional", "groom", "luxury"]}
+    ],
+    "Electronics": [
+      {"name": "OnePlus Nord", "tags": ["smartphone", "android", "camera", "battery", "5G", "gaming"]},
+      {"name": "iPhone 15 Pro", "tags": ["apple", "premium", "camera", "luxury", "ios", "flagship"]},
+      {"name": "Samsung S23", "tags": ["android", "premium", "camera", "display", "flagship", "samsung"]},
+      {"name": "Noise Smart Watch", "tags": ["wearable", "fitness", "affordable", "indian", "bluetooth", "health"]},
+      {"name": "boAt Earbuds", "tags": ["audio", "wireless", "affordable", "indian", "bluetooth", "music"]},
+      {"name": "Realme Smart TV", "tags": ["television", "smart", "affordable", "entertainment", "android", "streaming"]},
+      {"name": "MI Power Bank", "tags": ["charging", "portable", "battery", "travel", "affordable", "accessory"]},
+      {"name": "Lenovo Laptop", "tags": ["computer", "work", "student", "windows", "productivity", "portable"]}
+    ],
+    "Home Decor": [
+      {"name": "Diwali Diya Sets", "tags": ["festive", "traditional", "lighting", "decoration", "handmade", "seasonal"]},
+      {"name": "Rajasthani Wall Art", "tags": ["handicraft", "traditional", "artistic", "home", "colorful", "cultural"]},
+      {"name": "Handloom Cushion Covers", "tags": ["textile", "sofa", "living room", "comfortable", "handmade", "colorful"]},
+      {"name": "Brass Figurines", "tags": ["metal", "traditional", "collectible", "gift", "cultural", "decorative"]},
+      {"name": "Madhubani Paintings", "tags": ["art", "traditional", "wall", "cultural", "colorful", "bihar"]},
+      {"name": "Cane Furniture", "tags": ["eco-friendly", "natural", "sustainable", "outdoor", "patio", "traditional"]},
+      {"name": "LED String Lights", "tags": ["modern", "festive", "lighting", "decoration", "party", "mood"]},
+      {"name": "Marble Coasters", "tags": ["kitchen", "dining", "gift", "traditional", "utility", "rajasthan"]}
+    ],
+    "Beauty": [
+      {"name": "Forest Essentials", "tags": ["ayurvedic", "luxury", "natural", "skincare", "indian", "organic"]},
+      {"name": "Lakmé Lipsticks", "tags": ["makeup", "color", "affordable", "indian", "beauty", "fashion"]},
+      {"name": "Mamaearth Products", "tags": ["natural", "toxin-free", "baby", "skincare", "haircare", "affordable"]},
+      {"name": "Kama Ayurveda", "tags": ["ayurvedic", "premium", "natural", "traditional", "gift", "luxury"]},
+      {"name": "Biotique Face Wash", "tags": ["herbal", "affordable", "skincare", "natural", "ayurvedic", "daily"]},
+      {"name": "Himalaya Herbals", "tags": ["herbal", "affordable", "healthcare", "natural", "ayurvedic", "daily"]},
+      {"name": "VLCC Face Masks", "tags": ["beauty", "salon", "skincare", "treatment", "indian", "professional"]},
+      {"name": "Colorbar Makeup", "tags": ["cosmetics", "affordable", "color", "trendy", "indian", "beauty"]}
+    ]
+  },
+  "additional_products": {
+    "Fashion": [
+      {"name": "Levi's 501 Jeans", "tags": ["casual", "denim", "trendy", "comfortable", "men", "women"]},
+      {"name": "Allen Solly Formal Shirt", "tags": ["formal", "office", "cotton", "men", "women", "designer"]},
+      {"name": "Biba Salwar Kameez", "tags": ["ethnic", "traditional", "festive", "women", "cotton", "designer"]},
+      {"name": "United Colors of Benetton Polo", "tags": ["casual", "cotton", "summer", "men", "women", "fashion"]},
+      {"name": "Nike Air Max", "tags": ["sports", "footwear", "casual", "men", "women", "running"]}
+    ],
+    "Electronics": [
+      {"name": "Samsung Galaxy M series", "tags": ["smartphone", "android", "camera", "battery", "affordable", "5G"]},
+      {"name": "Xiaomi Redmi Note", "tags": ["smartphone", "android", "camera", "value-for-money", "battery", "dual-sim"]},
+      {"name": "HP Pavilion Laptop", "tags": ["laptop", "windows", "work", "student", "portable", "productivity"]},
+      {"name": "Sony Bravia TV", "tags": ["television", "LED", "smart", "entertainment", "home", "display"]},
+      {"name": "JBL Bluetooth Speaker", "tags": ["audio", "wireless", "portable", "bass", "music", "party"]}
+    ],
+    "Home Decor": [
+      {"name": "Jaipur Rugs Handwoven Cotton Rug", "tags": ["rug", "handmade", "cotton", "living room", "traditional", "colorful"]},
+      {"name": "Channapatna Wooden Toy", "tags": ["handicraft", "wooden", "decorative", "traditional", "kids", "gift"]},
+      {"name": "Blue Pottery Vase", "tags": ["ceramic", "handmade", "decor", "colorful", "rajasthan", "traditional"]},
+      {"name": "Terracotta Planter", "tags": ["planter", "garden", "decor", "handmade", "ecofriendly", "outdoor"]},
+      {"name": "Pichwai Wall Painting", "tags": ["art", "traditional", "decor", "handpainted", "cultural", "wall"]}
+    ],
+    "Beauty": [
+      {"name": "Maybelline New York Mascara", "tags": ["makeup", "eyes", "beauty", "cosmetics", "women", "trendy"]},
+      {"name": "Lakmé Absolute Foundation", "tags": ["makeup", "face", "cosmetics", "women", "premium", "coverage"]},
+      {"name": "Lotus Herbals Sandalwood Face Pack", "tags": ["skincare", "face pack", "natural", "ayurvedic", "women", "organic"]},
+      {"name": "Khadi Herbal Shampoo", "tags": ["haircare", "herbal", "natural", "daily", "unisex", "health"]},
+      {"name": "Biotique Bio Dandelion Body Lotion", "tags": ["skincare", "lotion", "hydration", "natural", "unisex", "daily"]}
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+[
+  {"name": "Diwali", "month": 10, "duration": 15, "tags": ["lights", "gifts", "shopping", "family", "celebration"]},
+  {"name": "Eid", "month": 6, "duration": 7, "tags": ["family", "food", "gifts", "celebration", "shopping"]},
+  {"name": "Durga Puja", "month": 9, "duration": 10, "tags": ["bengal", "tradition", "shopping", "family", "celebration"]},
+  {"name": "Holi", "month": 3, "duration": 5, "tags": ["colors", "spring", "celebration", "fun", "community"]},
+  {"name": "Raksha Bandhan", "month": 8, "duration": 3, "tags": ["sibling", "gifts", "family", "tradition"]},
+  {"name": "Christmas", "month": 12, "duration": 10, "tags": ["gifts", "shopping", "celebration", "family", "winter"]},
+  {"name": "Ganesh Chaturthi", "month": 8, "duration": 10, "tags": ["maharashtra", "celebration", "community", "tradition"]},
+  {"name": "Onam", "month": 8, "duration": 10, "tags": ["kerala", "harvest", "tradition", "celebration", "shopping"]}
+]

@@ -1,0 +1,74 @@
+{
+  "version": "2.0",
+  "functionTimeout": "00:05:00",
+  "logging": {
+    "applicationInsights": {
+      "samplingSettings": {
+        "isEnabled": true,
+        "excludedTypes": "Request"
+      }
+    }
+  },
+  "extensionBundle": {
+    "id": "Microsoft.Azure.Functions.ExtensionBundle",
+    "version": "[2.*, 3.0.0)"
+  },
+  "functions": [
+    {
+      "name": "ProcessDataHttpTrigger",
+      "scriptFile": "process_data_func.py",
+      "entryPoint": "main",
+      "bindings": [
+        {
+          "authLevel": "function",
+          "type": "httpTrigger",
+          "direction": "in",
+          "name": "req",
+          "methods": [
+            "get",
+            "post"
+          ]
+        },
+        {
+          "type": "http",
+          "direction": "out",
+          "name": "$return"
+        }
+      ]
+    },
+    {
+      "name": "ProcessDataBlobTrigger",
+      "scriptFile": "process_data_func.py",
+      "entryPoint": "blob_trigger_main",
+      "bindings": [
+        {
+          "name": "myblob",
+          "type": "blobTrigger",
+          "direction": "in",
+          "path": "project-data/{name}",
+          "connection": "AZURE_STORAGE_CONNECTION_STRING"
+        }
+      ]
+    },
+    {
+      "name": "ProcessDataTimerTrigger",
+      "scriptFile": "process_data_func.py",
+      "entryPoint": "timer_trigger_main",
+      "bindings": [
+        {
+          "name": "mytimer",
+          "type": "timerTrigger",
+          "direction": "in",
+          "schedule": "0 */15 * * * *"
+        }
+      ]
+    }
+  ],
+  "healthMonitor": {
+    "enabled": true,
+    "healthCheckInterval": "00:00:10",
+    "healthCheckWindow": "00:02:00",
+    "healthCheckThreshold": 6,
+    "counterThreshold": 0.80
+  }
+}
