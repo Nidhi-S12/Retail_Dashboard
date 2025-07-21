@@ -1998,7 +1998,7 @@
             const marketingRecommendation = firstDataItem.marketing_recommendation || 'Consider targeted marketing campaigns based on regional preferences.';
             const recommendationClass = getRecommendationClass(recommendation);
             
-            // Get sample posts from all data items
+            // Get posts from all data items
             const samplePosts = product.data ? product.data.reduce((posts, item) => {
                 if (item.sample_posts && item.sample_posts.length > 0) {
                     posts.push(...item.sample_posts);
@@ -2066,7 +2066,7 @@
                                         setActiveTab('posts');
                                     }}
                                 >
-                                    Sample Posts
+                                    Posts
                                 </button>
                             </nav>
                         </div>
@@ -2451,7 +2451,7 @@
                                         </div>
                                     ) : (
                                         <div className="bg-gray-50 rounded-lg p-6 text-center">
-                                            <p className="text-gray-500">No sample posts available</p>
+                                            <p className="text-gray-500">No posts available</p>
                                         </div>
                                     )}
                                 </div>
